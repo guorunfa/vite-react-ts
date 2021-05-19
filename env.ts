@@ -7,12 +7,12 @@ const envObj: Props = {
     apiBaseUrl: '/api'
   },
   beta: {
-    cdn: '//s.xxx.com/vite-react-app/beta',
-    apiBaseUrl: '//www.beta.xxx.com/v1'
+    cdn: '//abc.com/vite-react-app/beta',
+    apiBaseUrl: '//www.beta.123.com/v1'
   },
   release: {
-    cdn: '//s.xxx.com/vite-react-app/release',
-    apiBaseUrl: '//www.xxx.com/v1'
+    cdn: '//abc.com/vite-react-app/release',
+    apiBaseUrl: '//www.123.com/v1'
   }
 }
 export default envObj;

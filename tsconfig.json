@@ -31,5 +31,6 @@
     "./src",
     "./typings",
     "./vite.config.ts"
-  ]
+  ],
+  "exclude": ["node_modules"]
 }
