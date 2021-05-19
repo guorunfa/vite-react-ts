@@ -1,7 +1,7 @@
-interface Props{
+interface Props {
   [propName: string]: any
 }
-const envObj:Props = {
+const envObj: Props = {
   development: {
     cdn: './',
     apiBaseUrl: '/api'
